@@ -115,5 +115,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Demo
 
-[Live Demo](#) (Replace `#` with your hosted URL once deployed).
+[Live Demo](https://www.zephsuderman.ca/Javascript-Calendar/js-cal)
 
